@@ -10,6 +10,10 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * 主要是toolbar的使用
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private Toolbar mToolbar;
